@@ -6,13 +6,14 @@ My name is Robin Navarro, I'm currently studying computer science at University 
   <a href="https://www.linkedin.com/in/robin-navarro-196996144/">Linkedin</a> • 
   <a href="https://robin-navarro.emi.u-bordeaux.fr/">Website</a>
 </p>
+
 ------------
 
 - 🔭 I’m currently working on a personal project using **Java** and **JavaFx**.
 - 🌱 I’m currently learning more deeply **Java** with **Spring**.
 - 📫 How to reach me: on social networks.
 
-<p align="center-left">
+<p align="center">
   <img alt="Card stats" src="https://github-readme-stats.vercel.app/api?username=chocorion&show_icons=true&theme=vue&count_private=true&hide=issues,contribs&cache_seconds=1&include_all_commits=true"/>
   <!-- Javascript is to high, bug ?
   <img alt="Langages card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocorion&hide=javascript,html&title_color=29D098&count_private=false&include_all_commits=true"/> -->
