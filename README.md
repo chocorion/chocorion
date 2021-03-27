@@ -1,16 +1,15 @@
-# Hi there :wave:
+## Hi there :wave:
 
 My name is Robin Navarro, I'm currently studying computer science at University of Bordeaux !
 
-## My Links
-
--[LinkedIn](https://www.linkedin.com/in/robin-navarro-196996144/)
--[Personal site](https://robin-navarro.emi.u-bordeaux.fr/)
-
+<p align=center>
+  <a href="https://www.linkedin.com/in/robin-navarro-196996144/">Linkedin</a> • 
+  <a href="https://robin-navarro.emi.u-bordeaux.fr/">Website</a>
+</p>
 ------------
 
-- 🔭 I’m currently working on a personnal project using **Java** and **JavaFx**.
-- 🌱 I’m currently learning more deeply **Java**.
+- 🔭 I’m currently working on a personal project using **Java** and **JavaFx**.
+- 🌱 I’m currently learning more deeply **Java** with **Spring**.
 - 📫 How to reach me: on social networks.
 
 <p align="center-left">
@@ -19,15 +18,18 @@ My name is Robin Navarro, I'm currently studying computer science at University 
   <img alt="Langages card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocorion&hide=javascript,html&title_color=29D098&count_private=false&include_all_commits=true"/> -->
 </p>
 
-## Skills
+## Languages and Tools:
 <p align="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="images/java.svg" alt="java" width="40" height="40" />
+    <img src="images/spring.svg" alt="spring" width="40" height="40" />
+    <img src="images/postgresql.svg" alt="postgresql" width="40" height="40" />
+    <img src="images/apachemaven.svg" alt="maven" width="40" height="40" />
+    <img src="images/python.svg" alt="python" width="40" height="40" />
+    <img src="images/javascript.svg" alt="javascript" width="40" height="40" />
+    <img src="images/typescript.svg" alt="typescript" width="40" height="40" />
+    <img src="images/node-dot-js.svg" alt="nodejs" width="40" height="40" />
+    <img src="images/git.svg" alt="git" width="40" height="40" />
+    <img src="images/linux.svg" alt="linux" width="40" height="40" />
+    <img src="images/visualstudiocode.svg" alt="vscode" width="40" height="40" />
+    <img src="images/intellijidea.svg" alt="intellij" width="40" height="40" />
 </p>
