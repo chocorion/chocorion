@@ -1,16 +1,16 @@
 ## Hi there :wave:
 
-My name is Robin Navarro, I'm currently studying computer science at University of Bordeaux !
+My name is Robin Navarro, I'm a software developer !
 
 <p align=center>
   <a href="https://www.linkedin.com/in/robin-navarro-196996144/">Linkedin</a> • 
-  <a href="https://robin-navarro.emi.u-bordeaux.fr/">Website</a>
+  <a href="https://chocorion.fr/">Website</a>
 </p>
 
 ------------
 
-- 🔭 I’m currently working on a personal project using **Java** and **JavaFx**.
-- 🌱 I’m currently learning more deeply **Java** with **Spring**.
+- 🔭 I’m currently working on a personal project using **Kotlin**.
+- 🌱 I’m currently learning more deeply **Kotlin** and **ReactJs**.
 - 📫 How to reach me: on social networks.
 
 <p align="center">
